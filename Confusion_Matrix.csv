@@ -1,0 +1,17 @@
+Actual,Predicted,Value,Model
+Actual 0,Predicted 0,741,Logistic Regression
+Actual 0,Predicted 1,292,Logistic Regression
+Actual 1,Predicted 0,79,Logistic Regression
+Actual 1,Predicted 1,295,Logistic Regression
+Actual 0,Predicted 0,659,Decision Tree
+Actual 0,Predicted 1,374,Decision Tree
+Actual 1,Predicted 0,59,Decision Tree
+Actual 1,Predicted 1,315,Decision Tree
+Actual 0,Predicted 0,795,Random Forest
+Actual 0,Predicted 1,238,Random Forest
+Actual 1,Predicted 0,108,Random Forest
+Actual 1,Predicted 1,266,Random Forest
+Actual 0,Predicted 0,720,SVM
+Actual 0,Predicted 1,313,SVM
+Actual 1,Predicted 0,74,SVM
+Actual 1,Predicted 1,300,SVM

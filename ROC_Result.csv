@@ -1,0 +1,13 @@
+,FPR,TPR,Model
+0,0.000,0.000,Logistic Regression
+1,0.283,0.789,Logistic Regression
+2,1.000,1.000,Logistic Regression
+0,0.000,0.000,Decision Tree
+1,0.362,0.842,Decision Tree
+2,1.000,1.000,Decision Tree
+0,0.000,0.000,Random Forest
+1,0.230,0.711,Random Forest
+2,1.000,1.000,Random Forest
+0,0.000,0.000,SVM
+1,0.303,0.802,SVM
+2,1.000,1.000,SVM
