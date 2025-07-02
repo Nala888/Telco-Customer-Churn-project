@@ -3,9 +3,9 @@ import pandas as pd
 import pickle
 
 pipeline_dic = {
-    'LogisticRegression': 'Logistic_churn_prediction_pipeline.pkl',
-    'DecisonTree': 'Decision Tree_churn_prediction_pipeline.pkl',
-    'RandomForest' : 'Random Forest_churn_prediction_pipeline.pkl'
+    'LogisticRegression': 'model_deployment/Logistic_churn_prediction_pipeline.pkl',
+    'DecisonTree': 'Decision model_deployment/Tree_churn_prediction_pipeline.pkl',
+    'RandomForest' : 'Random model_deploiment/Forest_churn_prediction_pipeline.pkl'
 }
  
 
